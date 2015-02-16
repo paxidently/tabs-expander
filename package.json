@@ -1,0 +1,12 @@
+{ "name":              "tabs-expander"
+, "version":           "0.1.0"
+, "description":       "Expand tabs in text."
+, "author":            "Yuri Hater <paxidently@yandex.com>"
+, "main":              "index.js"
+, "repository":      { "type": "git"
+                     , "url":  "https://github.com/paxidently/tabs-expander"        }
+, "bugs":            { "url":  "https://github.com/paxidently/tabs-expander/issues" }
+, "keywords":        [ "tabs"
+                     , "typography" ]
+, "license":           "MIT"
+}
